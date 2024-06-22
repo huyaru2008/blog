@@ -43,7 +43,7 @@
   </entry>
   <entry>
     <title></title>
-    <url>/2024/06/19/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/ajax%E4%B8%8Efetch%E8%AF%B7%E6%B1%82%E7%9A%84%E5%8C%BA%E5%88%AB/</url>
+    <url>/2024/06/22/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/ajax%E4%B8%8Efetch%E8%AF%B7%E6%B1%82%E7%9A%84%E5%8C%BA%E5%88%AB/</url>
     <content><![CDATA[<html><head></head><body><h2 id="ajax与fetch请求的区别"><a href="#ajax与fetch请求的区别" class="headerlink" title="ajax与fetch请求的区别"></a>ajax与fetch请求的区别</h2><h3 id="关于前端样式主题化"><a href="#关于前端样式主题化" class="headerlink" title="关于前端样式主题化"></a>关于前端样式主题化</h3><h3 id="基于websocket的消息通信"><a href="#基于websocket的消息通信" class="headerlink" title="基于websocket的消息通信"></a>基于websocket的消息通信</h3><h3 id="参考elementPlus源码实现自己的svg图标库"><a href="#参考elementPlus源码实现自己的svg图标库" class="headerlink" title="参考elementPlus源码实现自己的svg图标库"></a>参考elementPlus源码实现自己的svg图标库</h3><h3 id="参考elementPlus源码实现全局组件方法"><a href="#参考elementPlus源码实现全局组件方法" class="headerlink" title="参考elementPlus源码实现全局组件方法"></a>参考elementPlus源码实现全局组件方法</h3><h3 id="如何把js项目迁移为typescript项目"><a href="#如何把js项目迁移为typescript项目" class="headerlink" title="如何把js项目迁移为typescript项目"></a>如何把js项目迁移为typescript项目</h3><h3 id="使用prettier、eslint、husky、lintstage定制开发规范"><a href="#使用prettier、eslint、husky、lintstage定制开发规范" class="headerlink" title="使用prettier、eslint、husky、lintstage定制开发规范"></a>使用prettier、eslint、husky、lintstage定制开发规范</h3><h3 id="关于前端样式主题化-1"><a href="#关于前端样式主题化-1" class="headerlink" title="关于前端样式主题化"></a>关于前端样式主题化</h3><h3 id="关于静态文档网站那些事儿"><a href="#关于静态文档网站那些事儿" class="headerlink" title="关于静态文档网站那些事儿"></a>关于静态文档网站那些事儿</h3><h3 id="关于如何提升打包效率"><a href="#关于如何提升打包效率" class="headerlink" title="关于如何提升打包效率"></a>关于如何提升打包效率</h3><h3 id="electron-嵌入项目嵌入web界面的几种方式"><a href="#electron-嵌入项目嵌入web界面的几种方式" class="headerlink" title="electron 嵌入项目嵌入web界面的几种方式"></a>electron 嵌入项目嵌入web界面的几种方式</h3><h3 id="桌面应用的几种数据存储方式"><a href="#桌面应用的几种数据存储方式" class="headerlink" title="桌面应用的几种数据存储方式"></a>桌面应用的几种数据存储方式</h3><h3 id="登录功能的实现"><a href="#登录功能的实现" class="headerlink" title="登录功能的实现"></a>登录功能的实现</h3></body></html>]]></content>
   </entry>
   <entry>
@@ -87,7 +87,7 @@
   </entry>
   <entry>
     <title>mockjs在前端项目中的应用</title>
-    <url>/2024/06/19/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/mockjs%E5%9C%A8%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</url>
+    <url>/2024/06/22/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/mockjs%E5%9C%A8%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</url>
     <content><![CDATA[<html><head></head><body><h3 id="使用mockjs模拟请求数据"><a href="#使用mockjs模拟请求数据" class="headerlink" title="使用mockjs模拟请求数据"></a>使用mockjs模拟请求数据</h3><blockquote>
 <p>Mock.js 是一个前端数据模拟库，它可以拦截前端代码中的 XMLHttpRequest 请求，并返回模拟的数据；在前端开发中，使用 Mock 数据可以帮助我们模拟后端接口数据，提高开发效率，同时也可以减少对后端接口的依赖。</p>
 </blockquote>
@@ -201,37 +201,6 @@
       </categories>
   </entry>
   <entry>
-    <title>vscode项目国际化</title>
-    <url>/2024/06/19/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/vscode%E9%A1%B9%E7%9B%AE%E5%9B%BD%E9%99%85%E5%8C%96/</url>
-    <content><![CDATA[<html><head></head><body><h2 id="为什么要进行国际化"><a href="#为什么要进行国际化" class="headerlink" title="为什么要进行国际化"></a>为什么要进行国际化</h2><p>国际化（i18n）是指将应用程序设计为可以轻松地适应不同语言、地区和文化的能力，更好的在海外推广国内产品。</p>
-<h2 id="国际化功能要点"><a href="#国际化功能要点" class="headerlink" title="国际化功能要点"></a>国际化功能要点</h2><p>1.多语言支持：包括界面和文档翻译、本地化应用等<br>2.多语言环境切换：切换后，读取相应的语言包内容</p>
-<h2 id="如何实现国际化（步骤）"><a href="#如何实现国际化（步骤）" class="headerlink" title="如何实现国际化（步骤）"></a>如何实现国际化（步骤）</h2><p>1.将所有需要翻译的字符串放在单独的消息文件中。如 json 格式文件，每个文件对应一个语言。<br>2.使用国际化框架或库如<code>vue-i18n</code>，这些框架可帮助管理不同语言的消息文件。<br>3.根据用户的语言环境动态加载适当的消息文件。</p>
-<h2 id="结合自身项目特点实现国际化"><a href="#结合自身项目特点实现国际化" class="headerlink" title="结合自身项目特点实现国际化"></a>结合自身项目特点实现国际化</h2><p>我们的产品为多项目架构，主项目基于 vscode 源码实现，包含 vscode 扩展项目、webview 界面，包含三种情况：</p>
-<h3 id="vscode-原生项目国际化"><a href="#vscode-原生项目国际化" class="headerlink" title="vscode 原生项目国际化"></a>vscode 原生项目国际化</h3><p>安装时可选环境</p>
-<ul>
-<li><p>设置默认语言环境<br>初始安装时：默认语言环境为本机语言环境、若没有相应的语言包，默认为 en </p>
-</li>
-<li><p>扩展中文包消息字段<br>语言包目录：<code>extensions\ms-ceintl.vscode-language-pack-zh-hans-1.55.1\translations\main.i18n.json</code></p>
-<figure class="highlight json"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">"vs/workbench/browser/parts/headerbar/modelLibraryView"</span><span class="punctuation">:</span> <span class="punctuation">{</span></span><br><span class="line">	<span class="attr">"loadModel"</span><span class="punctuation">:</span> <span class="string">"载入模型"</span></span><br><span class="line"><span class="punctuation">}</span></span><br></pre></td></tr></tbody></table></figure></li>
-<li><p>本地化应用</p>
-</li>
-</ul>
-<figure class="highlight typescript"><table><tbody><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> * <span class="keyword">as</span> nls <span class="keyword">from</span> <span class="string">'vs/nls'</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> <span class="attr">test1</span>: <span class="title class_">IAction</span> = {</span><br><span class="line">  <span class="attr">id</span>: <span class="string">'1'</span>,</span><br><span class="line">  <span class="attr">label</span>: nls.<span class="title function_">localize</span>(<span class="string">'loadModel'</span>, <span class="string">'load model'</span>), <span class="comment">// 本地化</span></span><br><span class="line">  <span class="attr">run</span>: <span class="keyword">async</span> () =&gt; {</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">'载入模型 run'</span>);</span><br><span class="line">    <span class="variable language_">this</span>.<span class="title function_">loadModelToScene</span>(item);</span><br><span class="line">    rename;</span><br><span class="line">  },</span><br><span class="line">  <span class="title function_">dispose</span>(<span class="params"></span>) {},</span><br><span class="line">};</span><br></pre></td></tr></tbody></table></figure>
-<ul>
-<li>语言环境切换方法<br>可以通过使用Configure Display Language命令显式设置 VS Code 显示语言来覆盖默认 UI 语言，按Ctrl+Shift+P调出命令面板 &gt; 键入“display” &gt; 显示Configure Display Language命令</li>
-</ul>
-<p>底层实现：</p>
-<figure class="highlight typescript"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment">// src\vs\workbench\contrib\localizations\browser\localizationsActions.ts</span></span><br><span class="line">	<span class="keyword">if</span> (selectedLanguage) {</span><br><span class="line">				<span class="keyword">await</span> <span class="variable language_">this</span>.<span class="property">jsonEditingService</span>.<span class="title function_">write</span>(<span class="variable language_">this</span>.<span class="property">environmentService</span>.<span class="property">argvResource</span>, [{ <span class="attr">path</span>: [<span class="string">'locale'</span>], <span class="attr">value</span>: selectedLanguage.<span class="property">label</span> }], <span class="literal">true</span>); <span class="comment">// 写入运行时配置文件中 路径：C:\Users\userName\.modouide-oss</span></span><br><span class="line">				<span class="keyword">const</span> restart = <span class="keyword">await</span> <span class="variable language_">this</span>.<span class="property">dialogService</span>.<span class="title function_">confirm</span>({</span><br><span class="line">					<span class="attr">type</span>: <span class="string">'info'</span>,</span><br><span class="line">					<span class="attr">message</span>: <span class="title function_">localize</span>(<span class="string">'relaunchDisplayLanguageMessage'</span>, <span class="string">"A restart is required for the change in display language to take effect."</span>),</span><br><span class="line">					<span class="attr">detail</span>: <span class="title function_">localize</span>(<span class="string">'relaunchDisplayLanguageDetail'</span>, <span class="string">"Press the restart button to restart {0} and change the display language."</span>, <span class="variable language_">this</span>.<span class="property">productService</span>.<span class="property">nameLong</span>),</span><br><span class="line">					<span class="attr">primaryButton</span>: <span class="title function_">localize</span>(<span class="string">'restart'</span>, <span class="string">"&amp;&amp;Restart"</span>)</span><br><span class="line">				});</span><br><span class="line"></span><br><span class="line">				<span class="keyword">if</span> (restart.<span class="property">confirmed</span>) {</span><br><span class="line">					<span class="variable language_">this</span>.<span class="property">hostService</span>.<span class="title function_">restart</span>();</span><br><span class="line">				}</span><br><span class="line">			}</span><br></pre></td></tr></tbody></table></figure>
-<h3 id="基于vscode的子项目国际化"><a href="#基于vscode的子项目国际化" class="headerlink" title="基于vscode的子项目国际化"></a>基于vscode的子项目国际化</h3><blockquote>
-<p>语言切换需要重启项目才可生效<br>  browerview项目可通过界面查询字符获取locale值<br>  扩展项目可通过通信访问配置文件中的locale值</p>
-</blockquote>
-<h2 id="vue-项目国际化"><a href="#vue-项目国际化" class="headerlink" title="vue 项目国际化"></a>vue 项目国际化</h2><p>1.使用 vue-i18n 插件实现<br>2.切换语言环境:可以使用 $i18n.locale 属性来切换语言</p>
-<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><h3 id="后端返回的数据仅中文，如何兼容？"><a href="#后端返回的数据仅中文，如何兼容？" class="headerlink" title="后端返回的数据仅中文，如何兼容？"></a>后端返回的数据仅中文，如何兼容？</h3></body></html>]]></content>
-      <categories>
-        <category>工作日志</category>
-      </categories>
-  </entry>
-  <entry>
     <title>vscode源码初识（一）</title>
     <url>/2020/11/11/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/vscode%E6%BA%90%E7%A0%81%E5%88%9D%E8%AF%86/</url>
     <content><![CDATA[<html><head></head><body><h2 id="导读"><a href="#导读" class="headerlink" title="导读"></a>导读</h2><p><em>公司规划要做一个IDE，经过前期产品调研，确认以vscode源码为研究对象，基于vscode开发一款新的IDE产品，所以我有较长的时间需要啃懂vscode相关的技术实现，由于前期对vscode涉及的相关技术，如typescript、electron、nodejs缺乏系统了解，也无相关开发经验，因此读懂vscode源码对我来说是个大工程，希望通过博客能记录学习过程、梳理相关概念、总结技术难点，帮助我更好的上手IDE开发</em></p>
@@ -278,22 +247,39 @@
       </categories>
   </entry>
   <entry>
-    <title>关于工业3D仿真</title>
-    <url>/2024/06/19/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%B8%9A3D%E4%BB%BF%E7%9C%9F/</url>
-    <content><![CDATA[<html><head></head><body><h2 id="关于工业3D仿真"><a href="#关于工业3D仿真" class="headerlink" title="关于工业3D仿真"></a>关于工业3D仿真</h2><p>其实接触工业3D仿真业务已经有近一年的时间了，因为不是3D业务主要负责人，平时的业务侧重点并不在3D那一块，但它确实是我们的核心业务，加上我对web 3D很有渊源，来上海后的第一份工作也是对web 3D的研发，我想我很有必要对这个领域的知识进行梳理和分析。</p>
-<h3 id="背景：为什么而来，解决什么问题"><a href="#背景：为什么而来，解决什么问题" class="headerlink" title="背景：为什么而来，解决什么问题"></a>背景：为什么而来，解决什么问题</h3><p>工业仿真是一个比较宽泛的概念，有数据3D模型搭建、过程仿真等环节。在我们的业务场景中3D仿真指的是工业流程仿真。仿真技术的加持能有效提高企业开发效率，加强数据采集、分析、处理能力，减少决策失误并降低企业风险。我们公司主要的产品是工业机器人，提供产线系统集成服务。在系统集成作业中存在大量的人工作业，完全依赖人工调节，产品线遇到问题维护成本很高，且相关技术人员紧缺、培养成本高；基于此，公司想要做出一套能够模拟产线上机器人系统集成的可视化交互工具，甚至可结合机器人编程实现拓展为<code>一个跨平台工业仿真+工业机器人离线编程系统平台</code>，可为作为整个工业机器人行业的一套解决方案。</p>
-<h3 id="目标：要做成什么样的东西"><a href="#目标：要做成什么样的东西" class="headerlink" title="目标：要做成什么样的东西"></a>目标：要做成什么样的东西</h3><p>我们要做一套<code>集工业业务仿真与离线编程与一体的集成开发平台</code></p>
-<h3 id="实现思路："><a href="#实现思路：" class="headerlink" title="实现思路："></a>实现思路：</h3><p>开源的代码编辑器-vscode + threejs + vue</p>
-<h3 id="技术生态："><a href="#技术生态：" class="headerlink" title="技术生态："></a>技术生态：</h3><p>1.魔改vscode实现自己的登录功能、模型库、tab切换、头部工具栏<br>2.实现vscode业务功能扩展项目：3D仿真，rpl语言解析<br>3.实现基于vscode的内嵌界面：账户与资源管理项目、3D编辑器项目<br>4.实现3D组件库、树状菜单组件库<br>5.实现组件库文档项目搭建与自动化部署</p>
-<h3 id="技术栈："><a href="#技术栈：" class="headerlink" title="技术栈："></a>技术栈：</h3><p>1.vue3<br>2.threejs<br>3.electron<br>4.nodejs<br>5.typescript<br>6.elementPlus<br>7.webpack、vite、rollup<br>8.prettier、eslint<br>9.vitepress、vuepress<br>10.jest、vue-test</p>
-</body></html>]]></content>
+    <title>vscode项目国际化</title>
+    <url>/2024/06/22/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/vscode%E9%A1%B9%E7%9B%AE%E5%9B%BD%E9%99%85%E5%8C%96/</url>
+    <content><![CDATA[<html><head></head><body><h2 id="为什么要进行国际化"><a href="#为什么要进行国际化" class="headerlink" title="为什么要进行国际化"></a>为什么要进行国际化</h2><p>国际化（i18n）是指将应用程序设计为可以轻松地适应不同语言、地区和文化的能力，更好的在海外推广国内产品。</p>
+<h2 id="国际化功能要点"><a href="#国际化功能要点" class="headerlink" title="国际化功能要点"></a>国际化功能要点</h2><p>1.多语言支持：包括界面和文档翻译、本地化应用等<br>2.多语言环境切换：切换后，读取相应的语言包内容</p>
+<h2 id="如何实现国际化（步骤）"><a href="#如何实现国际化（步骤）" class="headerlink" title="如何实现国际化（步骤）"></a>如何实现国际化（步骤）</h2><p>1.将所有需要翻译的字符串放在单独的消息文件中。如 json 格式文件，每个文件对应一个语言。<br>2.使用国际化框架或库如<code>vue-i18n</code>，这些框架可帮助管理不同语言的消息文件。<br>3.根据用户的语言环境动态加载适当的消息文件。</p>
+<h2 id="结合自身项目特点实现国际化"><a href="#结合自身项目特点实现国际化" class="headerlink" title="结合自身项目特点实现国际化"></a>结合自身项目特点实现国际化</h2><p>我们的产品为多项目架构，主项目基于 vscode 源码实现，包含 vscode 扩展项目、webview 界面，包含三种情况：</p>
+<h3 id="vscode-原生项目国际化"><a href="#vscode-原生项目国际化" class="headerlink" title="vscode 原生项目国际化"></a>vscode 原生项目国际化</h3><p>安装时可选环境</p>
+<ul>
+<li><p>设置默认语言环境<br>初始安装时：默认语言环境为本机语言环境、若没有相应的语言包，默认为 en </p>
+</li>
+<li><p>扩展中文包消息字段<br>语言包目录：<code>extensions\ms-ceintl.vscode-language-pack-zh-hans-1.55.1\translations\main.i18n.json</code></p>
+<figure class="highlight json"><table><tbody><tr><td class="code"><pre><span class="line"><span class="attr">"vs/workbench/browser/parts/headerbar/modelLibraryView"</span><span class="punctuation">:</span> <span class="punctuation">{</span></span><br><span class="line">	<span class="attr">"loadModel"</span><span class="punctuation">:</span> <span class="string">"载入模型"</span></span><br><span class="line"><span class="punctuation">}</span></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>本地化应用</p>
+</li>
+</ul>
+<figure class="highlight typescript"><table><tbody><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> * <span class="keyword">as</span> nls <span class="keyword">from</span> <span class="string">'vs/nls'</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> <span class="attr">test1</span>: <span class="title class_">IAction</span> = {</span><br><span class="line">  <span class="attr">id</span>: <span class="string">'1'</span>,</span><br><span class="line">  <span class="attr">label</span>: nls.<span class="title function_">localize</span>(<span class="string">'loadModel'</span>, <span class="string">'load model'</span>), <span class="comment">// 本地化</span></span><br><span class="line">  <span class="attr">run</span>: <span class="keyword">async</span> () =&gt; {</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">'载入模型 run'</span>);</span><br><span class="line">    <span class="variable language_">this</span>.<span class="title function_">loadModelToScene</span>(item);</span><br><span class="line">    rename;</span><br><span class="line">  },</span><br><span class="line">  <span class="title function_">dispose</span>(<span class="params"></span>) {},</span><br><span class="line">};</span><br></pre></td></tr></tbody></table></figure>
+<ul>
+<li>语言环境切换方法<br>可以通过使用Configure Display Language命令显式设置 VS Code 显示语言来覆盖默认 UI 语言，按Ctrl+Shift+P调出命令面板 &gt; 键入“display” &gt; 显示Configure Display Language命令</li>
+</ul>
+<p>底层实现：</p>
+<figure class="highlight typescript"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment">// src\vs\workbench\contrib\localizations\browser\localizationsActions.ts</span></span><br><span class="line">	<span class="keyword">if</span> (selectedLanguage) {</span><br><span class="line">				<span class="keyword">await</span> <span class="variable language_">this</span>.<span class="property">jsonEditingService</span>.<span class="title function_">write</span>(<span class="variable language_">this</span>.<span class="property">environmentService</span>.<span class="property">argvResource</span>, [{ <span class="attr">path</span>: [<span class="string">'locale'</span>], <span class="attr">value</span>: selectedLanguage.<span class="property">label</span> }], <span class="literal">true</span>); <span class="comment">// 写入运行时配置文件中 路径：C:\Users\userName\.modouide-oss</span></span><br><span class="line">				<span class="keyword">const</span> restart = <span class="keyword">await</span> <span class="variable language_">this</span>.<span class="property">dialogService</span>.<span class="title function_">confirm</span>({</span><br><span class="line">					<span class="attr">type</span>: <span class="string">'info'</span>,</span><br><span class="line">					<span class="attr">message</span>: <span class="title function_">localize</span>(<span class="string">'relaunchDisplayLanguageMessage'</span>, <span class="string">"A restart is required for the change in display language to take effect."</span>),</span><br><span class="line">					<span class="attr">detail</span>: <span class="title function_">localize</span>(<span class="string">'relaunchDisplayLanguageDetail'</span>, <span class="string">"Press the restart button to restart {0} and change the display language."</span>, <span class="variable language_">this</span>.<span class="property">productService</span>.<span class="property">nameLong</span>),</span><br><span class="line">					<span class="attr">primaryButton</span>: <span class="title function_">localize</span>(<span class="string">'restart'</span>, <span class="string">"&amp;&amp;Restart"</span>)</span><br><span class="line">				});</span><br><span class="line"></span><br><span class="line">				<span class="keyword">if</span> (restart.<span class="property">confirmed</span>) {</span><br><span class="line">					<span class="variable language_">this</span>.<span class="property">hostService</span>.<span class="title function_">restart</span>();</span><br><span class="line">				}</span><br><span class="line">			}</span><br></pre></td></tr></tbody></table></figure>
+<h3 id="基于vscode的子项目国际化"><a href="#基于vscode的子项目国际化" class="headerlink" title="基于vscode的子项目国际化"></a>基于vscode的子项目国际化</h3><blockquote>
+<p>语言切换需要重启项目才可生效<br>  browerview项目可通过界面查询字符获取locale值<br>  扩展项目可通过通信访问配置文件中的locale值</p>
+</blockquote>
+<h2 id="vue-项目国际化"><a href="#vue-项目国际化" class="headerlink" title="vue 项目国际化"></a>vue 项目国际化</h2><p>1.使用 vue-i18n 插件实现<br>2.切换语言环境:可以使用 $i18n.locale 属性来切换语言</p>
+<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><h3 id="后端返回的数据仅中文，如何兼容？"><a href="#后端返回的数据仅中文，如何兼容？" class="headerlink" title="后端返回的数据仅中文，如何兼容？"></a>后端返回的数据仅中文，如何兼容？</h3></body></html>]]></content>
       <categories>
         <category>工作日志</category>
       </categories>
   </entry>
   <entry>
     <title>二次封装axios</title>
-    <url>/2024/06/19/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E4%BA%8C%E6%AC%A1%E5%B0%81%E8%A3%85axios/</url>
+    <url>/2024/06/22/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E4%BA%8C%E6%AC%A1%E5%B0%81%E8%A3%85axios/</url>
     <content><![CDATA[<html><head></head><body><h3 id="封装axios请求"><a href="#封装axios请求" class="headerlink" title="封装axios请求"></a>封装axios请求</h3><blockquote>
 <p>axios是一个基于promise的http请求库，可以用于浏览器和node环境。</p>
 </blockquote>
@@ -331,8 +317,22 @@
       </categories>
   </entry>
   <entry>
+    <title>关于工业3D仿真</title>
+    <url>/2024/06/22/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%B8%9A3D%E4%BB%BF%E7%9C%9F/</url>
+    <content><![CDATA[<html><head></head><body><h2 id="关于工业3D仿真"><a href="#关于工业3D仿真" class="headerlink" title="关于工业3D仿真"></a>关于工业3D仿真</h2><p>其实接触工业3D仿真业务已经有近一年的时间了，因为不是3D业务主要负责人，平时的业务侧重点并不在3D那一块，但它确实是我们的核心业务，加上我对web 3D很有渊源，来上海后的第一份工作也是对web 3D的研发，我想我很有必要对这个领域的知识进行梳理和分析。</p>
+<h3 id="背景：为什么而来，解决什么问题"><a href="#背景：为什么而来，解决什么问题" class="headerlink" title="背景：为什么而来，解决什么问题"></a>背景：为什么而来，解决什么问题</h3><p>工业仿真是一个比较宽泛的概念，有数据3D模型搭建、过程仿真等环节。在我们的业务场景中3D仿真指的是工业流程仿真。仿真技术的加持能有效提高企业开发效率，加强数据采集、分析、处理能力，减少决策失误并降低企业风险。我们公司主要的产品是工业机器人，提供产线系统集成服务。在系统集成作业中存在大量的人工作业，完全依赖人工调节，产品线遇到问题维护成本很高，且相关技术人员紧缺、培养成本高；基于此，公司想要做出一套能够模拟产线上机器人系统集成的可视化交互工具，甚至可结合机器人编程实现拓展为<code>一个跨平台工业仿真+工业机器人离线编程系统平台</code>，可为作为整个工业机器人行业的一套解决方案。</p>
+<h3 id="目标：要做成什么样的东西"><a href="#目标：要做成什么样的东西" class="headerlink" title="目标：要做成什么样的东西"></a>目标：要做成什么样的东西</h3><p>我们要做一套<code>集工业业务仿真与离线编程与一体的集成开发平台</code></p>
+<h3 id="实现思路："><a href="#实现思路：" class="headerlink" title="实现思路："></a>实现思路：</h3><p>开源的代码编辑器-vscode + threejs + vue</p>
+<h3 id="技术生态："><a href="#技术生态：" class="headerlink" title="技术生态："></a>技术生态：</h3><p>1.魔改vscode实现自己的登录功能、模型库、tab切换、头部工具栏<br>2.实现vscode业务功能扩展项目：3D仿真，rpl语言解析<br>3.实现基于vscode的内嵌界面：账户与资源管理项目、3D编辑器项目<br>4.实现3D组件库、树状菜单组件库<br>5.实现组件库文档项目搭建与自动化部署</p>
+<h3 id="技术栈："><a href="#技术栈：" class="headerlink" title="技术栈："></a>技术栈：</h3><p>1.vue3<br>2.threejs<br>3.electron<br>4.nodejs<br>5.typescript<br>6.elementPlus<br>7.webpack、vite、rollup<br>8.prettier、eslint<br>9.vitepress、vuepress<br>10.jest、vue-test</p>
+</body></html>]]></content>
+      <categories>
+        <category>工作日志</category>
+      </categories>
+  </entry>
+  <entry>
     <title>关于码垛流程仿真</title>
-    <url>/2024/06/19/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E5%85%B3%E4%BA%8E%E7%A0%81%E5%9E%9B%E6%B5%81%E7%A8%8B%E4%BB%BF%E7%9C%9F/</url>
+    <url>/2024/06/22/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E5%85%B3%E4%BA%8E%E7%A0%81%E5%9E%9B%E6%B5%81%E7%A8%8B%E4%BB%BF%E7%9C%9F/</url>
     <content><![CDATA[<html><head></head><body><h2 id="关于码垛流程仿真"><a href="#关于码垛流程仿真" class="headerlink" title="关于码垛流程仿真"></a>关于码垛流程仿真</h2><h3 id="码垛有哪些流程"><a href="#码垛有哪些流程" class="headerlink" title="码垛有哪些流程"></a>码垛有哪些流程</h3><p><code>一般码垛流程</code><br>1.物料准备：码垛前需要准备好要码垛的物料，通常是已经包装好的成品或半成品，要保证物料的尺寸和重量符合要求。<br>2.码垛规划：根据物料的尺寸、重量和码垛的要求，制定码垛方案，包括堆垛层数、堆垛方式等。<br>3.堆垛机械运作：使用自动化的堆垛机械将物料按照码垛方案堆垛起来。常用的堆垛机械包括自动堆垛机、机械手等。<br>4.码垛质检：在码垛完成后，需要对堆垛的物料进行质检，确保码垛的质量符合要求。<br>5.包装：对已经完成码垛的物料进行包装，保护物料，以便运输和储存。<br>6.输送：将已经完成包装的物料输送到指定的地点，例如仓库或运输车辆。<br><code>码垛流程仿真</code><br>我们这里只对码垛流程中的前三个阶段进行仿真应用，且使用的自动化堆垛机械为机械手，主要功能包括：工件的输送、工件的搬运、垛型设置、机器人路径及逻辑指令设置。以下为仿真过程。<br>1.仿真项目默认存在一个空白3D场景<br>2.向3D场景中添加码垛应用使用到的机械设备，机械设备包含机器人、传送带、工件、托盘、传感器、夹爪/吸盘<br>3设置工件运输流程：通过设置传送带运动速度、运动方向、绑定工件、上料点位置、上料频率等属性参数，获取3D运动参数，在传送带末端设置传感器，当工件运动至与传送带末端时会与传感器物体碰撞，此时传送带停止运输工件，等待机器人搬运。<br>4.设置托盘垛型：载入托盘后，可自主设置托盘垛层，设置垛层绑定的工件，依次在托盘上码放绑定工件，也可自定义码放的工件顺序与层数<br>5：工件搬运流程：3D场景载入机器人并为机器人设置合适位置，设置机器人的运动路径即夹爪的起始位置、抓取工件位置、工件码放位置等，若传送带停止运输工件，则触发机器人按照规定路径运动，若工件被机器人抓走后，传送带可重新启动运输下一个工件</p>
 <h3 id="threejs-在码垛场景中的应用"><a href="#threejs-在码垛场景中的应用" class="headerlink" title="threejs 在码垛场景中的应用"></a>threejs 在码垛场景中的应用</h3><p>1.初始化场景: 创建基本的3D场景，场景中包含基本的光照、相机等元素，绑定控制器并使用webgl渲染器渲染到指定dom上<br>2.对于添加到场景中的物体，采用的是threejs 提供的模型加载器，也可结合threejs提供的创建几何体的方式添加<br>3.3D物体的运动效果可以结合threejs中的矩阵变换函数和3D缓动库tweenjs来实现（平移、旋转、缩放等效果），对于更复杂的运动需要结合相关运动学算法来实现<br>4.关于模型的压缩，可以使用draco算法以及LOD（levels of detail 多细节层次）技术或者酌情减少模型顶点进行优化</p>
 </body></html>]]></content>
@@ -472,7 +472,7 @@
   </entry>
   <entry>
     <title>工作日志 2023/3/31</title>
-    <url>/2024/06/19/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%972023_3_31/</url>
+    <url>/2024/06/22/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%972023_3_31/</url>
     <content><![CDATA[<html><head></head><body><p>今天的工作很零碎，也没有技术上太值得讨论的问题，今天的任务主要是检查在即将发布的项目迭代中我负责的功能模块的代码，把遗留的一点小问题处理掉并合并代码。</p>
 <p>上午处理了的问题是：</p>
 <p>（1）业务项目中，依赖的公共组件包存在类型问题</p>
@@ -491,7 +491,7 @@
   </entry>
   <entry>
     <title>简单的行业liao&#39;jie</title>
-    <url>/2024/06/19/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%972023_4_5/</url>
+    <url>/2024/06/22/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%972023_4_5/</url>
     <content><![CDATA[<html><head></head><body><p>今天是清明节，对我这打工族来说也就是居家休息的一天，距离上一篇工作日志已经过去了一个周末和两个工作日，虽然偷懒没有记录工作上的内容，但也没有完全偷懒到没有任何作为，周末两天是舒缓的两天，我观看了公司内部发布的两篇关于《回归价值本质-我们在做一个怎样的产品》与《企业战略规划洞察》的课程，这让一直埋头实现技术工作的我对公司与行业发展多了一些思考。两个工作日也没有投入特别好的状态，因为邻近项目发版，做的一些代码检查与功能联调的工作，不过对于项目中涉及的web CSP（content safe protocol）内容安全协议很感兴趣，做了一些了解。</p>
 <p>关于《回归价值的本质-我们在做一个怎样的产品》</p>
 <p>确切的说这是关于介绍产品特性、如何度量我们的产品价值、如何促进产品交易以及如何提升产品价值的宏观讨论。下面是课程主要讲述的内容：</p>
@@ -549,7 +549,7 @@
   </entry>
   <entry>
     <title>机器人基础编程</title>
-    <url>/2024/06/19/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B/</url>
+    <url>/2024/06/22/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B/</url>
     <content><![CDATA[<html><head></head><body><h2 id="机器人基本知识"><a href="#机器人基本知识" class="headerlink" title="机器人基本知识"></a>机器人基本知识</h2><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>国际标准化组织1987年对工业机器人的定义：</p>
 <blockquote>
 <p>工业机器人是一种具有自动控制操作和移动功能的，能够完成各种作业的可编程操作机器。</p>
