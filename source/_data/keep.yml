@@ -2,9 +2,9 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: Joyer
-  author: Joyer Lee
-  url: https://lhx.blog.wj2015.com/
+  title: Joy
+  author: Joy Hu
+  url: https://blog.csdn.net/huyaru2008?type=blog
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img: /images/avatar.jpg
 
@@ -54,14 +54,14 @@ style:
 social_contact:
   enable: true
   links:
-    github: https://github.com/joyer-lee # your GitHub URL
+    github: https://github.com/huyaru2008 # your GitHub URL
     weixin: # your WeChat QR-Code URL
     qq: # your QQ QR-Code URL
     weibo: # your WeiBo URL
     zhihu: # your ZhiHu URL
     twitter: # your twitter URL
     facebook: # your facebook URL
-    email: joyer_lee@163.com # your email
+    email: lhyr2008@163.com # your email
 
 # ---------------------------------------------------------------------------------------
 # Navigation menu
